@@ -1,0 +1,17 @@
+.grid-center {
+    display: flex;
+    justify-content: center;
+}
+.grid-end {
+    display: flex;
+    justify-content: flex-end;
+}
+.filter-width {
+    width: 100% !important;
+}
+.filter-container{
+    
+}
+.td-th-padding {
+    padding: 0 !important;
+}

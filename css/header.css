@@ -1,0 +1,17 @@
+.header-logo {
+    height: 33px;
+    width: 31px;
+    margin-left: 15px;
+    margin-bottom: 11px;
+}
+.header-logo-text {
+    color: #2f323e;
+    padding: 0 !important;
+    margin-top: 10px;
+}
+.logo-icon {
+    margin: 0 !important;
+}
+.header-login-text {
+    margin-right: 38px !important;
+}
